@@ -4,7 +4,7 @@
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+https://documenter.getpostman.com/view/26949822/2s93m1aQHm
 
 
 ## How to run this project
